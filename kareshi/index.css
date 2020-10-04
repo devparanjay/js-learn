@@ -1,3 +1,8 @@
+hr:not(.exception) {
+    width: 60%;
+    height: 1%;
+}
+
 .heading {
     text-align: center;
     text-transform: capitalize;
@@ -8,5 +13,9 @@
 }
 
 .topic {
+    text-align: left;
+}
+
+.subtopic {
     text-align: left;
 }
