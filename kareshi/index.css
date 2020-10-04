@@ -1,0 +1,12 @@
+.heading {
+    text-align: center;
+    text-transform: capitalize;
+    background-color: crimson;
+    text-emphasis-color: white;
+    text-shadow: indigo;
+    box-shadow: indigo;
+}
+
+.topic {
+    text-align: left;
+}
